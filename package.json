@@ -18,12 +18,16 @@
   },
   "homepage": "https://github.com/acsilva-alss/galeria-de-imagens#readme",
   "dependencies": {
+    "autoprefixer": "^10.2.5",
     "gatsby": "^3.0.3",
     "gatsby-image": "^3.0.0",
+    "gatsby-plugin-postcss": "^4.0.0",
     "gatsby-plugin-sharp": "^3.0.0",
     "gatsby-source-filesystem": "^3.0.0",
     "gatsby-transformer-sharp": "^3.0.0",
+    "postcss": "^8.2.8",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "tailwindcss": "^2.0.3"
   }
 }
